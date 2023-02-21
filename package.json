@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "ejercicios",
   "main": "index.js",
+  "git": "https://github.com/astilvero/openBoot.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
